@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm a computer science and engineering student who enjoys working on interesting projects and learning new things.
-If you're curious about some of the things I've worked on, I invite you to take a look at my website, since I don't keep *all* of my personal work open source on GitHub.
 
 <!--
 **cachandlerdev/cachandlerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
