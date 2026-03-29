@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a computer science and engineering student who enjoys working on interesting projects and learning new things.
-Some of the things I've worked so far include embedded microcontroller programming, full stack web development, desktop applications, and game development.
+Some of the things I've worked so far include game development, full stack web and software development, embedded microcontroller programming, and desktop applications.
 
 <!--
 **cachandlerdev/cachandlerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
