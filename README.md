@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a computer science and engineering student who enjoys working on interesting projects and learning new things.
-Some of the things I've worked so far include game development, full stack web and software development, embedded microcontroller programming, and desktop applications.
+Hi! 
+I’m a computer science student who enjoys learning about and creating new things. 
+Some of my main interests include game development, computer graphics, and computer vision. 
+Recently, I've been studying compilers, machine learning and 3D mesh reconstruction, and in the future I'm planning on learning more about game engine architecture, realistic computer simulations, and artifical intelligence.
 
 <!--
 **cachandlerdev/cachandlerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
