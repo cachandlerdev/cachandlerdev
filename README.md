@@ -3,7 +3,8 @@
 Hi! 
 I’m a computer science student who enjoys learning about and creating new things. 
 Some of my main interests include game development, computer graphics, and computer vision. 
-Recently, I've been studying compilers, machine learning and 3D mesh reconstruction, and in the future I'm planning on learning more about game engine architecture, realistic computer simulations, and artifical intelligence.
+Recently, I've been studying GPU architecture, automated reasoning, and 3D mesh reconstruction, and in the future I'm planning on learning more about game engine architecture, realistic computer simulations, and GPU programming.
+
 
 <!--
 **cachandlerdev/cachandlerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
